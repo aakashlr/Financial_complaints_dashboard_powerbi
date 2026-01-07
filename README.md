@@ -98,7 +98,7 @@ This Power BI dashboard provides a **holistic view of the financial complaint la
 
 ## **📂 Repository Structure**
 
-- `Dashboard.pbix` – Power BI dashboard file  
+- `Financial complaints overview.pbit` – Power BI dashboard file  
 - `README.md` – Project documentation  
 
 ---
